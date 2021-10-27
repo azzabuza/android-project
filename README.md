@@ -1,2 +1,2 @@
 # android-project
-app project
+android app project
